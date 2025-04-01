@@ -9,3 +9,6 @@ console.log("Lights on?");
 console.log(isLightOn);
 
 const batteryLevel = 50;
+
+console.log("Battery level?");
+console.log(batteryLevel + "%");
