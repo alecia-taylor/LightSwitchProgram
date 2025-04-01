@@ -1,4 +1,4 @@
-# # Light Switch Program
+# Light Switch Program
 
 This simple JavaScript script simulates checking whether a light is on based on whether it is daytime and if there is enough battery power.
 
