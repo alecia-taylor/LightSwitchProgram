@@ -15,5 +15,5 @@ console.log(batteryLevel + "%");
 
 const isWorking = isLightOn && batteryLevel > 0;
 
-console.log ("Is eerything working?");
+console.log ("Is everything working?");
 console.log(isWorking);
